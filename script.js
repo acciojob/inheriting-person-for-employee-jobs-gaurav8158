@@ -34,10 +34,10 @@ employee.jobGreet(); // logs "Hello, my name is Jane, I am 25 years old, and my 
 
 
 
-// complete this js code
-function Person(name, age) {}
+// // complete this js code
+// function Person(name, age) {}
 
-function Employee(name, age, jobTitle) {}
+// function Employee(name, age, jobTitle) {}
 
 // Do not change code below this line
 window.Person = Person;
